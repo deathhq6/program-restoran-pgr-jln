@@ -13,7 +13,7 @@ print("")
 if PW == "12345":
   print("PW benar")
   print("Pilihan menu :")
-  print("1. Nasi Goremg  4. Teh Manis")
+  print("1. Nasi Goreng  4. Teh Manis")
   print("2. Nasi Rames   5. Jus Apple")
   print("3. Nasi Uduk    6. Jus Jeruk")
   FOD = input("Masukkan pilihan Makanan :")
